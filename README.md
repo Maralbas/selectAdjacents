@@ -26,5 +26,5 @@ With face step uncheck:
 
 ### Random and Percentage of Randomness
 
-It will choose randomly wich faces to be selected.
+It will choose randomly which faces to be selected.
 ![alt tag](https://github.com/Maralbas/selectAdjacents/blob/master/.imagesReadme/random.png)
